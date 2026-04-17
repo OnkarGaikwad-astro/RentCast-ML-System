@@ -1,6 +1,6 @@
 # 🏙️ RentCast ML System — Smart Rent Prediction Platform
 
-🚀 **Live Demo:** https://huggingface.co/spaces/your-username/rentcast-ml-system
+🚀 **Live Demo:** https://huggingface.co/spaces/Astronkar/rentcast-ml-system
 
 ---
 
